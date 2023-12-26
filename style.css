@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    padding: 0px 300px;
+}
+.innerdiv{
+    
+    margin: 100px auto;
+    background-color: aqua;
+    padding: 20px 20px;
+}
+.innerdiv ul li{
+    list-style: none ;
+    margin: 20px 0px;
+}
+#submit, .btn{
+    margin: 10px 0px;
+    padding: 8px 14px; 
+}
+.scoreArea{
+    padding: 20px;
+    /* background-color: aliceblue; */
+    /* display: none; */
+}
